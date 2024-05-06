@@ -1,0 +1,160 @@
+body{
+    background-image: url("./5172660.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Programming-language{
+    border: solid black;
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    margin-left: 350px;
+    margin-top: 150px;
+}
+.one{
+    color: red;
+    text-decoration: underline;
+    margin-left: 50px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bolder;
+}
+.javascript{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.java{
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.Scripting-language{
+    border: solid black;
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    margin-left: 800px;
+    margin-top: 13vh;
+    
+}
+.two{
+    color: red;
+    margin-left: 100px;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.html{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.css{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.bootstrap{
+    height: 100px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.library{
+    border: solid black;
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+    margin-left: 350px;
+    margin-top: 20vh;
+    font-weight: bolder;
+}
+.three{
+    color: red;
+    margin-left: 100px;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+}
+.react{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.mysql{
+    border: solid black;
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+    margin-top: -200px;
+    margin-left: 700px;
+    font-weight: bolder;
+}
+.four{
+    margin-left: 100px;
+    color: red;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+}
+.sql{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.tools{
+    border: solid black;
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+    margin-top: -200px;
+    margin-left: 1050px;
+}
+.five{
+    color: red;
+    margin-left: 100px;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.git{
+    height: 100px;
+    width: 100px;;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.post{
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.sidebar{
+    margin-top: -500px;
+}
+.sidebar ul a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 50px;
+    font-weight: bolder;
+}
+.fy{
+    margin-top: -400px
+}
+.sidebar{
+    margin-top: -550px;
+}
+ol{
+    padding-top: 5vh;
+}

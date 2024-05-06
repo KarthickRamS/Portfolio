@@ -1,0 +1,46 @@
+ body{
+    background-image: url("./5172660.jpg");
+ }
+ .con{
+    color: yellow;
+    margin-left: 90vh;
+    margin-top: 30vh;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+ }
+.sidebar ul a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+.con a{
+   text-decoration: none;
+   color: red;
+   margin-left: 30px;
+}
+.con{
+   font-style: italic;
+   font-weight: bolder;
+   font-size: 20px;
+}
+.name{
+   color: red;
+   margin-left: 4vh;
+}
+.number{
+   color: red;
+   margin-left: 4vh;
+}
+i{
+   margin-right: 2vh;
+}
+ol{
+   padding-top: 5vh;
+}
+.sidebar{
+   margin-top: -100px;
+}

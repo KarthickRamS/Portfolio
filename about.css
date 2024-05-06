@@ -1,0 +1,58 @@
+body{
+    background-image: url("./5172660.jpg");
+}
+.education{
+    color: yellow;
+    margin-left: 50vh;
+    margin-top: 150px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.sidebar ul a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+    font-style: italic;
+    margin-top: -1000;
+    font-weight: bolder;
+}
+.sidebar{
+    margin-top:-300px;
+}
+.why{
+    color: yellow;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50vh;
+}
+.dream{
+    color: yellow;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50vh;
+}
+.heading1{
+    text-decoration: underline;
+    color: red;
+}
+.two{
+    text-decoration: underline;
+    color: red;
+}
+.three{
+    text-decoration: underline;
+    color: red;
+}
+.four{
+    text-decoration: underline;
+    color: red;
+}
+.para1{
+    font-size: 30px;
+    font-style: italic;
+    color: yellow;
+}
+ol{
+    padding-top: 5vh;
+}
